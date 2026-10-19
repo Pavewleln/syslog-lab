@@ -1,0 +1,8 @@
+{
+  "server_ip": "10.121.20.39",
+  "interface": "enp0s31f6",
+  "port": 514,
+  "reader_user": "pavel",
+  "clear_logs_on_start": true,
+  "archive_before_clear": true
+}
